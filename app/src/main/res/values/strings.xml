@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Assignment</string>
+    <string name="myFaculty">My faculty :</string>
+    <string name="age">My age :</string>
+    <string name="faculty">computer Science</string>
+    <string name="years">20</string>
+    <string name="update">Update</string>
+    <string name="name">Menna omar</string>
+    <string name="MyName">My Name :</string>
+    <string name="title">\"Engineer\"</string>
+
+
+
+</resources>

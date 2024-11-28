@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="myFaculty">اسم الكلية :</string>
+    <string name="age">العمر :</string>
+    <string name="faculty">كلية الحاسبات والمعلومات</string>
+    <string name="years">20</string>
+    <string name="update">تحديث</string>
+    <string name="name">منة عمر</string>
+    <string name="MyName">الاسم :</string>
+    <string name="title">\"مهندسة\"</string>
+</resources>
